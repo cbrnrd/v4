@@ -43,7 +43,7 @@ const Loader = ({ finishLoading }) => {
       complete: () => finishLoading(),
     });
 
-    loader
+    /*loader
       .add({
         targets: '#logo path',
         delay: 300,
@@ -71,7 +71,7 @@ const Loader = ({ finishLoading }) => {
         easing: 'easeInOutQuart',
         opacity: 0,
         zIndex: -1,
-      });
+      });*/
   };
 
   const [isMounted, setIsMounted] = useState(false);

@@ -1,38 +1,34 @@
 module.exports = {
-  siteTitle: 'Brittany Chiang | Software Engineer',
+  siteTitle: 'Carter Brainerd | Software Engineer',
   siteDescription:
-    'Brittany Chiang is a software engineer based in Boston, MA who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
+    '',
   siteKeywords:
-    'Brittany Chiang, Brittany, Chiang, bchiang7, software engineer, front-end engineer, web developer, javascript, northeastern',
-  siteUrl: 'https://brittanychiang.com',
+    'Carter Brainerd, Carter, Brainerd, cbrnrd, software engineer, back-end engineer, cybersecurity, java, ruby, northeastern',
+  siteUrl: 'https://carterbrainerd.me',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Brittany Chiang',
+//  googleAnalyticsID: 'UA-45666519-2',
+//  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
+  name: 'Carter Brainerd',
   location: 'Boston, MA',
-  email: 'brittany.chiang@gmail.com',
-  github: 'https://github.com/bchiang7',
-  twitterHandle: '@bchiang7',
+  email: '0xCB@protonmail.com',
+  github: 'https://github.com/cbrnrd',
+  twitterHandle: '@carterbrainerd',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
+      url: 'https://github.com/cbrnrd',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      url: 'https://www.linkedin.com/in/carter-brainerd-b2112a190/',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
+      url: 'https://www.instagram.com/c.arterb',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://twitter.com/carterbrainerd',
     },
   ],
 
@@ -66,7 +62,7 @@ module.exports = {
   srConfig: (delay = 200) => ({
     origin: 'bottom',
     distance: '20px',
-    duration: 500,
+    duration: 350,
     delay,
     rotate: { x: 0, y: 0, z: 0 },
     opacity: 0,
