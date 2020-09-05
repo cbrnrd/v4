@@ -158,7 +158,7 @@ this.workbox.backgroundSync = (function (exports, WorkboxError_mjs, logger_mjs, 
      *
      * WARNING: this method does not ensure the deleted enry belongs to this
      * queue (i.e. matches the `queueName`). But this limitation is acceptable
-     * as this class is not docsly exposed. An additional check would make
+     * as this class is not publicly exposed. An additional check would make
      * this method slower than it needs to be.
      *
      * @private
