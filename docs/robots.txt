@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://carterbrainerd.me/sitemap.xml
+Host: https://carterbrainerd.me
