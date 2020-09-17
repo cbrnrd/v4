@@ -1,0 +1,50 @@
+I hereby claim:
+
+  * I am an admin of http://carterbrainerd.me
+  * I am cbrnrd (https://keybase.io/cbrnrd) on keybase.
+  * I have a public key ASCYq8ZJNBfWbbp5UqmYaVDosMhn5lRlBtVb6w4smR5LNQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010164947daa1964feaee9062b78b1912c56cd8da1e3c3e67bd7a3fa92db0153d3eb0a",
+      "host": "keybase.io",
+      "kid": "012098abc6493417d66dba7952a9986950e8b0c867e6546506d55beb0e2c991e4b350a",
+      "uid": "0377f962babb63cd35096cb2212c0219",
+      "username": "cbrnrd"
+    },
+    "merkle_root": {
+      "ctime": 1525142276,
+      "hash": "a29eaf5aa287b673c8045fc5570c8eedd31d710d6c9450faa0d39bec80298b1c44abe8b50da0dcf473bab9786df1c472801f70b6db37886bb84078131e1424e3",
+      "hash_meta": "4d3355045a71816c7d4255cec1c319bbc0016252d716507ed2997a00e0d8d222",
+      "seqno": 2463539
+    },
+    "service": {
+      "entropy": "sP2k/xQoty5HFSkR/Q7N0Tg2",
+      "hostname": "carterbrainerd.me",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.47"
+  },
+  "ctime": 1525142376,
+  "expire_in": 504576000,
+  "prev": "6a081d570ae24be171f5290f57c08937caf99b5c43936bd1433f8cf83eff042a",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgmKvGSTQX1m26eVKpmGlQ6LDIZ+ZUZQbVW+sOLJkeSzUKp3BheWxvYWTESpcCDcQgaggdVwriS+Fx9SkPV8CJN8r5m1xDk2vRQz+M+D7/BCrEIJTFVp89RDLA69vIMALQqF8Ky9bTBv5aUl0CV4gTzEz0AgHCo3NpZ8RAUOUpK4/ObRlyWxN+9hJnUjDOPj2aLYC5Avnq5gIIrAaZeukyAYaurN6tOsHs7enyEknh7Ck0JFdMzJ2b3WSGCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILER8fQaigeJIZHIW0Yei0YreG/aoQIX2AVkFQUB+TUgo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cbrnrd
