@@ -3,7 +3,7 @@ date: '2020-09-14'
 title: 'Teaching Assistant'
 company: 'Northeastern University'
 location: 'Boston, MA'
-range: 'Sept 2020 - Present'
+range: 'Sept - Dec 2020'
 url: 'https://wl11gp.neu.edu/udcprod8/bwckctlg.p_disp_course_detail?cat_term_in=202010&subj_code_in=CY&crse_numb_in=2550'
 ---
 
