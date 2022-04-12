@@ -105,7 +105,9 @@ const Footer = () => {
           href="https://github.com/cbrnrd/v4"
           target="_blank"
           rel="nofollow noopener noreferrer">
-          <div>Designed &amp; Built by Carter Brainerd. Adapted from <a href="https://github.com/bchiang7/v4">bchiang7/v4.</a></div>
+          <div>
+            Adapted from <a href="https://github.com/bchiang7/v4">bchiang7/v4.</a>
+          </div>
 
           {githubInfo.stars && githubInfo.forks && (
             <StyledGitHubInfo>

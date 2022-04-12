@@ -3,7 +3,7 @@ date: '2021-01-05'
 title: 'Security Engineer (co-op)'
 company: 'Poloniex'
 location: 'Boston, MA'
-range: 'Jan 2021 - July 2021'
+range: 'Jan - July 2021'
 url: 'https://poloniex.com/'
 ---
 
