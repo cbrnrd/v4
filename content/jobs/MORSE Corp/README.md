@@ -1,6 +1,6 @@
 ---
 date: '2022-01-03'
-title: 'Teaching Assistant'
+title: 'Python Software Engineer'
 company: 'MORSE Corp.'
 location: 'Boston, MA'
 range: 'Jan 2022 - Present'
