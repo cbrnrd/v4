@@ -1,13 +1,12 @@
 module.exports = {
   siteTitle: 'Carter Brainerd | Software Engineer',
-  siteDescription:
-    '',
+  siteDescription: '',
   siteKeywords:
     'Carter Brainerd, Carter, Brainerd, cbrnrd, software engineer, back-end engineer, cybersecurity, java, ruby, northeastern',
   siteUrl: 'https://carterbrainerd.me',
   siteLanguage: 'en_US',
-//  googleAnalyticsID: 'UA-45666519-2',
-//  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
+  //  googleAnalyticsID: 'UA-45666519-2',
+  //  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Carter Brainerd',
   location: 'Boston, MA',
   email: '0xCB@protonmail.com',
@@ -48,6 +47,10 @@ module.exports = {
     {
       name: 'Contact',
       url: '/#contact',
+    },
+    {
+      name: 'Blog',
+      url: '/blog',
     },
   ],
 
