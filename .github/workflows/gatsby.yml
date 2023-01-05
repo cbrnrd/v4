@@ -55,14 +55,14 @@ jobs:
         with:
           node-version: "18"
           cache: ${{ steps.detect-package-manager.outputs.manager }}
-      - name: Setup Pages
-        id: pages
-        uses: actions/configure-pages@v2
-        with:
+      #- name: Setup Pages
+      #  id: pages
+      #  uses: actions/configure-pages@v2
+      #  with:
           # Automatically inject pathPrefix in your Gatsby configuration file.
           #
           # You may remove this line if you want to manage the configuration yourself.
-          static_site_generator: gatsby
+      #    static_site_generator: gatsby
       - name: Restore cache
         uses: actions/cache@v3
         with:
@@ -79,7 +79,7 @@ jobs:
           PREFIX_PATHS: 'true'
         run: ${{ steps.detect-package-manager.outputs.manager }} run build
       - name: Move artifact
-        run: mv ./publluc ./docs
+        run: mv ./public ./docs
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
