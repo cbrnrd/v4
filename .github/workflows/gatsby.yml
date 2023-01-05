@@ -2,7 +2,7 @@
 #
 # To get started with Gatsby see: https://www.gatsbyjs.com/docs/quick-start/
 #
-name: Deploy Gatsby site to Pages
+name: Build Gatsby site and place it in docs/
 
 on:
   # Runs on pushes targeting the default branch
@@ -53,7 +53,7 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v3
         with:
-          node-version: "18.11.0"
+          node-version: "10.13.0"
           cache: ${{ steps.detect-package-manager.outputs.manager }}
 
       - name: Install dependencies
@@ -67,4 +67,4 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
-          path: ./public
+          path: ./docs
