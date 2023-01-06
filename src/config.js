@@ -29,6 +29,10 @@ module.exports = {
       name: 'Twitter',
       url: 'https://twitter.com/carterbrainerd',
     },
+    {
+      name: 'Pgp',
+      url: './pgp.txt',
+    },
   ],
 
   navLinks: [
