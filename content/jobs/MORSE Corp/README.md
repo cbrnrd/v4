@@ -3,7 +3,7 @@ date: '2022-01-03'
 title: 'Python Software Engineer'
 company: 'MORSE Corp.'
 location: 'Boston, MA'
-range: 'Jan 2022 - Present'
+range: 'Jan 2022 - Jun 2022'
 url: 'https://morsecorp.com'
 ---
 
