@@ -1,1 +1,0 @@
-{"componentChunkName":"component---src-templates-tag-js","path":"/blog/tags/welcome/","result":{"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"frontmatter":{"title":"Welcome to my blog :)","description":"Just saying hi","date":"2022-12-29","slug":"/blog/welcome","tags":["welcome"]}}}]}},"pageContext":{"tag":"welcome"}},"staticQueryHashes":["3115057458"]}
