@@ -7,7 +7,8 @@ skills:
   - Ruby
   - Terraform
   - AWS (Lambda, RDS, API Gateway, SNS)
-  - Malware Development & Reversing
+  - Red Team Tool Development
+  - Malware Analysis
   - Linux
   - Blockchain
   - Docker
