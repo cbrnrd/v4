@@ -1,8 +1,8 @@
 ---
-title: 'Hi, my name is'
+title: "Hi, I'm"
 name: 'Carter Brainerd'
-subtitle: 'I like to make and break things.'
+subtitle: 'Security Engineer'
 buttonText: 'Get In Touch'
 ---
 
-I'm a software engineer based in Boston, MA specializing in cybersecurity, networking, backend development, AWS, and systems.
+I'm a security engineer based in Washington, D.C. specializing in cybersecurity, networking, backend development, AWS, and systems.

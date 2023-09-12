@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'Periodic'
-cover: './periodic.png'
+avatar: './periodic.png'
 github: 'https://github.com/cbrnrd/periodic'
 external: 'https://periodic.vercel.app/'
 tech:

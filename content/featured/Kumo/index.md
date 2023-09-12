@@ -1,7 +1,7 @@
 ---
 date: '3'
 title: 'Kumo'
-cover: './kumo.png'
+avatar: './kumo.png'
 github: 'https://github.com/cbrnrd/Kumo'
 tech:
   - Java

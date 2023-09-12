@@ -1,7 +1,7 @@
 ---
 date: '4'
 title: 'NUCoin'
-cover: './demo.png'
+avatar: './demo.png'
 github: 'https://github.com/cbrnrd/NUCoin'
 external: 'https://ropsten.etherscan.io/address/0x000527a774561be4161710C8d53aC09703096aC1'
 tech:

@@ -1,7 +1,7 @@
 ---
 date: '2'
 title: 'Metasploit Framework'
-cover: './msf.png'
+avatar: './msf.png'
 github: 'https://github.com/rapid7/metasploit-framework/issues?utf8=%E2%9C%93&q=author%3Acbrnrd'
 external: 'https://github.com/rapid7/metasploit-framework/issues?utf8=%E2%9C%93&q=author%3Acbrnrd'
 tech:
