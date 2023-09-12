@@ -16,8 +16,8 @@ skills:
   - C/C++
 ---
 
-Hello! I'm Carter, a cybersecurity engineer and occasional graphic designer based in Washington, D.C. I'm currently working as a Cybersecurity Engineer at SpaceX.
+Hello! I'm Carter, a cybersecurity engineer and occasional graphic designer based in Washington, D.C. I;m currently working as a Cybersecurity Engineer at SpaceX.
 
-I graduated from [Northeastern University](https://www.khoury.northeastern.edu/) with a Bachelors of Science in Computer Science with a focus in Cybersecurity.
+I graduated from [Northeastern University](https://www.khoury.northeastern.edu/)with Bachelors of Science in Computer Science with a focus in Cybersecurity.
 
 Here are a few technologies I enjoy working with:
