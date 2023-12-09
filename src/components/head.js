@@ -19,6 +19,12 @@ const Head = ({ metadata }) => (
     <link rel="shortcut icon" href={favicon} />
     <link rel="canonical" href="https://carterbrainerd.me" />
 
+    {/* <!-- Google tag (gtag.js) --> */}
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-H0YS11DTTZ"></script>
+    <script>
+      {`window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag('js', new Date());gtag('config', 'G-H0YS11DTTZ');`}
+    </script>
+
     <meta name="description" content={metadata.description} />
     <meta name="keywords" content={config.siteKeywords} />
     <meta name="google-site-verification" content={config.googleVerification} />
