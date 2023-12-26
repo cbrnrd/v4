@@ -3,10 +3,11 @@ date: '6'
 title: 'Maliketh C2'
 avatar: './Maliketh.png'
 github: 'https://github.com/cbrnrd/maliketh'
-external: 'https://github.com/cbrnrd/maliketh'
+external: 'https://malikethframework.com'
 tech:
-  - Python (Flask/SQLAlchemy)
+  - Python
   - MSVC++
+  - Go
   - PostgreSQL
   - RabbitMQ
   - Cryptography
