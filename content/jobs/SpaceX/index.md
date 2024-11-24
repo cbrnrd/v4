@@ -8,5 +8,6 @@ url: 'https://spacex.com/'
 ---
 
 - Adapted an existing Golang library to enable application signing via YubiHSMs
-- Developed a tool to allow company secrets to be wrapped and unwrapped using YubiHSMs
+- Spearheaded creation of internal company tool to monitor sensitive groups and services and send reports to their owners
+- Assisted in rewriting our company-wide authentication service to be fully georedundant and more performant
 - Performed triage duties, helping other engineers with security issues and software reviews
