@@ -14,8 +14,8 @@ skills:
   - Docker
 ---
 
-Hello! I'm Carter, a security engineer and occasional graphic designer based in Washington, D.C.
+Hello! I'm Carter, a security engineer and occasional graphic designer based in Boston, MA.
 
-I am currently a Security Engineer at [SpaceX](https://www.spacex.com/), where I work on the Identity team.
+I am currently a Security Engineer at [Sourcegraph](https://www.sourcegraph.com/).
 
 Here are a few technologies I enjoy working with:
